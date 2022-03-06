@@ -1,5 +1,5 @@
 # Email-Automation
-Important Note: Test Script is configured for Hotmail Email login, As Gmail was not allowing to log in on the Automated lunch chrome instance. Please make sure to use Hotmail Login credentials.
+*Important Note:* Test Script is configured for Hotmail Email login, As Gmail was not allowing to log in on the Automated lunch chrome instance. Please make sure to use Hotmail Login credentials.
 
 Prerequisite: Eclipse IDE should be installed, Java installed and environment variable should be set up.
 
