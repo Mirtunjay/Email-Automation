@@ -1,1 +1,1 @@
-# Gmail-Automation
+# Email-Automation
