@@ -17,7 +17,7 @@ c)	Right-click on the DemoEmail.java file and Run as Junit Test. Test script exe
 **3.	Below are the Steps to Run the Test via command line and within IDE:**
 a)	Right-click on the Project in Eclipse and select ‘Show In’ > ‘Terminal’ to lunch the terminal window.
 b)	Run the below-mentioned commands in the sequence:
-•	Type *cd src/test/java* hit enter.
-•	Type *javac -cp "D:\JavaCode\maven-shared-mj\Jars\junit-4.13.1.jar;D:\JavaCode\maven-shared-mj\Jars\selenium-java-4.0.0-alpha-6.jar;D:\JavaCode\maven-shared-mj\Jars\selenium-server-4.0.0-alpha-6.jar;." DemoEmail.java* hit enter.
-•	Type *java -cp "D:\JavaCode\maven-shared-mj\Jars\junit-4.13.1.jar;D:\JavaCode\maven-shared-mj\Jars\selenium-java-4.0.0-alpha-6.jar;D:\JavaCode\maven-shared-mj\Jars\selenium-server-4.0.0-alpha-6.jar;D:\JavaCode\maven-shared-mj\Jars\hamcrest-2.2.jar;." org.junit.runner.JUnitCore DemoEmail* hit enter.
+-Type *cd src/test/java* hit enter.
+-Type *javac -cp "D:\JavaCode\maven-shared-mj\Jars\junit-4.13.1.jar;D:\JavaCode\maven-shared-mj\Jars\selenium-java-4.0.0-alpha-6.jar;D:\JavaCode\maven-shared-mj\Jars\selenium-server-4.0.0-alpha-6.jar;." DemoEmail.java* hit enter.
+-Type *java -cp "D:\JavaCode\maven-shared-mj\Jars\junit-4.13.1.jar;D:\JavaCode\maven-shared-mj\Jars\selenium-java-4.0.0-alpha-6.jar;D:\JavaCode\maven-shared-mj\Jars\selenium-server-4.0.0-alpha-6.jar;D:\JavaCode\maven-shared-mj\Jars\hamcrest-2.2.jar;." org.junit.runner.JUnitCore DemoEmail* hit enter.
 c)	Test execution will start.
