@@ -1,7 +1,11 @@
 # Email-Automation
 **Important Note:** Test Script is configured for Hotmail Email login, As Gmail was not allowing to log in on the Automated lunch chrome instance. Please make sure to use Hotmail Login credentials.
 
-Prerequisite: Eclipse IDE should be installed, Java installed and environment variable should be set up. Download the code folder and import code as Maven project.
+**Prerequisite:** 
+Eclipse IDE should be installed.
+Java installed and environment variable should be set up.
+Download the code folder and import code as Maven project.
+Download Jars zip file and unzip it and place 4 jar files into Jars Folder created in Project.
 
 **1.	Below are the Steps to Configure the data:**
 a)	You can locate test script at this path: /maven-shade-mj/src/test/java/ (Note: Test File name is DemoEmail.java)
